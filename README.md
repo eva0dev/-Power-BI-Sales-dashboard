@@ -1,5 +1,7 @@
 ## Dashboard Overview
 
+![Dashboard Preview](proj_3.jpg)
+
 This dashboard provides the following features for the company:
 
 - Display important sums
